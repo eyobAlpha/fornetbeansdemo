@@ -15,6 +15,7 @@ public class JavaApplication15 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        private int x;
         // TODO code application logic here
     }
     
